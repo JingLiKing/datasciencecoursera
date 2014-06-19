@@ -1,7 +1,7 @@
 datasciencecoursera
 ===================
 
-###repo for coursera
+###How the script works
 1) First download zip data from coursera project page, such as A.zip
 
 2) Unzip A.zip in the working directory of Rstudio
